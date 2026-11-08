@@ -38,4 +38,4 @@ namespace Tyuiu.PopovAA.Sprint4.Task0.V3
             Console.WriteLine($"Произведение его нечетных чисел = {ds.GetMultOddArrEl(arr)}");
         }
     }
-}
+} 
