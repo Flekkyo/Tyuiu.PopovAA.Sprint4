@@ -14,4 +14,4 @@ namespace Tyuiu.PopovAA.Sprint4.Task4.V10.Test
             CollectionAssert.AreEqual(new_array, res);
         }
     }
-}
+} 
