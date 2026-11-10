@@ -70,11 +70,11 @@ namespace Tyuiu.PopovAA.Sprint4.Task4.V10
                 {
                     if (j < array.GetLength(1) - 1)
                     {
-                        Console.Write(array[i, j] + ", ");
+                        Console.Write(mtrx[i, j] + ", ");
                     }
                     else
                     {
-                        Console.WriteLine(array[i, j]);
+                        Console.WriteLine(mtrx[i, j]);
                     }
                 }
             }

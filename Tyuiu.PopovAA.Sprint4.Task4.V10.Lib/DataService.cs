@@ -18,4 +18,4 @@ namespace Tyuiu.PopovAA.Sprint4.Task4.V10.Lib
             return matrix;
         }
     }
-} 
+}
