@@ -64,4 +64,4 @@ namespace Tyuiu.PopovAA.Sprint4.Task5.V7
             Console.WriteLine($"Количество отрицательных чисел в сегнерированном масииве = {ds.Calculate(matrix)}");
         }
     }
-}
+} 
